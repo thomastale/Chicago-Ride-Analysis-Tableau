@@ -1,4 +1,4 @@
-# Chicago-Ride-Analysis-Tableau
+# Chicago Ride Analysis (viz with Tableau)
 
 ## scrape data
 Used socrata API to scrape 120,000 rows of data for trip ID, latitude, longitude, and pickup timestamp of ride-hailing service trips throughout Chicago.
